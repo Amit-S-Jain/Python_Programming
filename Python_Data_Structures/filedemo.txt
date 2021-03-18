@@ -1,0 +1,9 @@
+This book is intended for both an academic and a professional audience. As a textbook, it is
+intended as a one-semester undergraduate course on network security for computer science,
+computer engineering, and electrical engineering majors.
+
+\\n\\n\\n\\t\\t It covers the material in IAS2
+Security Mechanisms, a core area in the Information Technology body of knowledge; and
+NET4 Security, another core area in the Information Technology body of knowledge. These
+subject areas are part of the Draft ACM/IEEE Computer Society Computing Curricula 2005.
+The book also serves as a basic reference volume and is suitable for self-study
