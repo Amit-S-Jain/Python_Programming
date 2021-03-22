@@ -163,7 +163,7 @@ Received: (from apache@localhost)
 	by nakamura.uits.iupui.edu (8.12.11.20060308/8.12.11/Submit) id m04L92hb007923
 	for source@collab.sakaiproject.org; Fri, 4 Jan 2008 16:09:02 -0500
 Date: Fri, 4 Jan 2008 16:09:02 -0500
-X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to zqian@umich.edu using -f
+X-Authentication-Warning: nakamura.uis.iupui.edu: apache set sender to zqian@umich.edu using -f
 To: source@collab.sakaiproject.org
 From: zqian@umich.edu
 Subject: [sakai] svn commit: r39770 - site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src/webapp/vm/sitesetup
